@@ -1,6 +1,6 @@
 # lab_instructions.txt
 
-Sam Thacker
-Prof. Oscar Marin
-COMP 484
+Sam Thacker__
+Prof. Oscar Marin__
+COMP 484__
 Homework 1
