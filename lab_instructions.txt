@@ -8,7 +8,7 @@ For this challenge you’ll be planning and implementing a formatting strategy f
              c.	Determine which content should be represented as headings, and then which level of headings you should use for each page. Focus on being consistent in how you assign headings for each page.
              d.	Go through each of the pages, and format headings based on your strategy.
 
-2.	Format paragraphs
+(DONE) 2.	Format paragraphs
              a.	Applies to: intro.htm
              b.	Determine which content should be represented by paragraphs and then format them appropriately. 
 
